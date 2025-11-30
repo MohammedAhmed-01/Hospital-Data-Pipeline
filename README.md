@@ -174,9 +174,9 @@ You can:
 ## 📷 Diagram
 
 
-```
+
 ![Hospital Pipeline](diagram/pipeline.png)
-```
+
 
 ---
 
