@@ -24,10 +24,9 @@ The pipeline covers:
 ```
 /README.md            → Documentation
 /diagram/             → Pipeline image (Draw.io or PNG)
-
-
 ---
 
+---
 ## 🏥 Data Pipeline Architecture
 
 This architecture simulates a real-world hospital data workflow but remains simplified for educational purposes.
