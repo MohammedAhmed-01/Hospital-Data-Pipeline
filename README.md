@@ -173,9 +173,6 @@ You can:
 
 ## 📷 Diagram
 
-Place your Draw.io or PNG diagram in the `/diagram` folder.
-
-Add it to the README like this:
 
 ```
 ![Hospital Pipeline](diagram/pipeline.png)
