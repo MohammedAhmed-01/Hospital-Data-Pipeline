@@ -24,11 +24,7 @@ The pipeline covers:
 ```
 /README.md            → Documentation
 /diagram/             → Pipeline image (Draw.io or PNG)
-/src/                 → (Optional) Scripts or examples
-/data/                → (Optional) Sample dataset
-```
 
-You can upload your diagram inside the `/diagram` folder.
 
 ---
 
